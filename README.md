@@ -1,2 +1,2 @@
 # Indian-Recipes
-Add Index page and Three recipes page with html extension
+Index page is linked to other recipes pages. All three recipes are filled with content.
